@@ -7,4 +7,4 @@ Projeto desenvolvido em JSF, tem como objetivo praticar a utilização de divers
 as boas práticas, a refatoração, a preocupação com o baixo acoplamento, os testes de unidade e as técnicas de programação 
 (idiomismos), são muito utilizados.
 
-Auxíliado pela apostila do curso FJ-22, disponibilizado pela Caelum.
+Auxiliado pela apostila do curso FJ-22, disponibilizado pela Caelum.
